@@ -24,6 +24,10 @@ p {
 	text-justify: auto;
 }
 
+abbr {
+	cursor: help;
+}
+
 @media (prefers-color-scheme: light) {
 	body {
 		color: #444444;
