@@ -2,4 +2,4 @@
 title = 'Home'
 +++
 
-Easy to use data
+Easy to use data, freely available
