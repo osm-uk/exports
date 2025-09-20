@@ -3,3 +3,6 @@ languageCode = 'en-gb'
 title = 'OSM UK Exports'
 disableKinds = ["taxonomy", "term"]
 theme = 'theme'
+
+[markup.goldmark.renderer]
+	unsafe = true
