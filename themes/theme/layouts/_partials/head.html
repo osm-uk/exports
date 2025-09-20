@@ -1,7 +1,9 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
 	<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
-	<link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+{{- with resources.Get "css/main.css" }}
+	<link rel="stylesheet" href="{{ .RelPermalink }}">
+{{- end }}
 	<meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}" />
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="{{ "logo_horizontal_color.png" | relURL }}" />
