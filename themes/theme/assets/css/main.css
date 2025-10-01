@@ -28,6 +28,10 @@ abbr {
 	cursor: help;
 }
 
+pre {
+	overflow-x: scroll;
+}
+
 @media (prefers-color-scheme: light) {
 	body {
 		color: #444444;
