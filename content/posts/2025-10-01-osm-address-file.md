@@ -22,7 +22,7 @@ This is done using <abbr title="Office for National Statistics">ONS</abbr> <abbr
     Source: Office for National Statistics licensed under the Open Government Licence v.3.0
 ```
 
-<a href="https://github.com/osm-uk/exports/releases/download/OSM-2025-09-30/osmuk-address-file-NSUL-2025-09-30.csv.zip">osmuk-address-file-NSUL-2025-09-30.csv</a> (600 MB)
+<a href="https://github.com/osm-uk/exports/releases/download/OSM-2025-09-30/osmuk-address-file-NSUL-2025-09-30.csv.zip">osmuk-address-file-NSUL-2025-09-30.csv</a> (650 MB)
 
-This data is not perfect, about 6% of [OSM postcodes are mismatching NSUL postcodes](https://gist.github.com/Cj-Malone/e413a49918a7ed20a10faf90dabb880b), this may be because of errors in OSM or matching issues, please help by contributing to [OpenStreetMap](https://www.openstreetmap.org/#map=6/53.24/-1.76).
+This data is not perfect, some [OSM postcodes are mismatching NSUL postcodes](https://gist.github.com/Cj-Malone/e413a49918a7ed20a10faf90dabb880b), this may be because of errors in OSM or matching issues, please help by contributing to [OpenStreetMap](https://www.openstreetmap.org/#map=6/53.24/-1.76).
 
