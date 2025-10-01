@@ -19,7 +19,7 @@ The copyright acknowledgements to use for the attribution statement are:
 Contains OS data © Crown Copyright and database rights 2025.
 ```
 
-<a href="https://github.com/osm-uk/exports/releases/download/OS/os-open-apt-2025-09.csv.zip">os-open-apt-2025-09.csv (1 GB)</a>
+<a href="https://github.com/osm-uk/exports/releases/download/OS/os-open-apt-2025-09.csv.zip">os-open-apt-2025-09.csv (2.5 GB)</a>
 
 We have also assigned postcodes to this data.
 This is done using <abbr title="Office for National Statistics">ONS</abbr> <abbr title="National Statistics UPRN Lookup">NSUL</abbr>.
@@ -32,5 +32,5 @@ This is done using <abbr title="Office for National Statistics">ONS</abbr> <abbr
     Source: Office for National Statistics licensed under the Open Government Licence v.3.0
 ```
 
-<a href="https://github.com/osm-uk/exports/releases/download/OS/os-open-apt-NSUL-2025-09.csv.zip">os-open-apt-NSUL-2025-09.csv (1.5 GB)</a>
+<a href="https://github.com/osm-uk/exports/releases/download/OS/os-open-apt-NSUL-2025-09.csv.zip">os-open-apt-NSUL-2025-09.csv (3.5 GB)</a>
 
