@@ -9,7 +9,7 @@ This Open Data includes coordinates, house numbers/names, street names and postc
 It is made available under the <abbr title="Open Data Database License">ODbL</abbr>, you are free to use it but you must credit OpenStreetMap and its contributors.
 More information is available at [osm.org/copyright](https://www.openstreetmap.org/copyright).
 
-<a href="https://github.com/osm-uk/exports/releases/download/0/osmuk-address-file-2025-09-19.csv.zip">osmuk-address-file-2025-09-19.csv</a> (600 MB)
+<a href="https://527934c826e52ca1.nbg1.your-objectstorage.com/osmuk-address-file-2025-09-19.csv.zip">osmuk-address-file-2025-09-19.csv</a> (600 MB)
 
 This data is incomplete, please help by contributing to [OpenStreetMap](https://www.openstreetmap.org/#map=6/53.24/-1.76).
 

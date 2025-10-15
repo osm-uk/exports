@@ -19,18 +19,18 @@ The copyright acknowledgements to use for the attribution statement are:
 Contains OS data © Crown Copyright and database rights 2025.
 ```
 
-<a href="https://github.com/osm-uk/exports/releases/download/OS/os-open-apt-2025-09.csv.zip">os-open-apt-2025-09.csv (2.5 GB)</a>
+<a href="https://527934c826e52ca1.nbg1.your-objectstorage.com/os-open-apt-2025-09.csv.zip">os-open-apt-2025-09.csv (2.5 GB)</a>
 
 We have also assigned postcodes to this data.
 This is done using <abbr title="Office for National Statistics">ONS</abbr> <abbr title="National Statistics UPRN Lookup">NSUL</abbr>.
 [NSUL](https://www.ons.gov.uk/methodology/geography/geographicalproducts/nationalstatisticsaddressproducts) is also available under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) with the following [attribution requirements](https://www.ons.gov.uk/methodology/geography/licences):
 
 ```
-    Contains OS data © Crown copyright and database right [year]
-    Contains Royal Mail data © Royal Mail copyright and Database right [year]
-    Contains GeoPlace data © Local Government Information House Limited copyright and database right [year]
+    Contains OS data © Crown copyright and database right 2025
+    Contains Royal Mail data © Royal Mail copyright and Database right 2025
+    Contains GeoPlace data © Local Government Information House Limited copyright and database right 2025
     Source: Office for National Statistics licensed under the Open Government Licence v.3.0
 ```
 
-<a href="https://github.com/osm-uk/exports/releases/download/OS/os-open-apt-NSUL-2025-09.csv.zip">os-open-apt-NSUL-2025-09.csv (3.5 GB)</a>
+<a href="https://527934c826e52ca1.nbg1.your-objectstorage.com/os-open-apt-NSUL-2025-09.csv.zip">os-open-apt-NSUL-2025-09.csv (3.5 GB)</a>
 
