@@ -23,10 +23,9 @@ It includes the use of [Code-Point® Open](https://osdatahub.os.uk/data/download
 > Contains Royal Mail data © Royal Mail copyright and database right 2025.
 > Contains National Statistics data © Crown copyright and database right 2025.
 
-And of course the raw addresses from Sheffield City Council.
+And of course the raw addresses from Buckinghamshire Council.
 
-
-> Contains public sector information obtained from Sheffield City Council and licensed under the Open Government Licence v3.0.
+> Contains public sector information licensed under the Open Government Licence v3.0.
 
 [buckinghamshire_geocoded.csv (40 MB)](https://527934c826e52ca1.nbg1.your-objectstorage.com/buckinghamshire_geocoded-2025-11.zip)
 
